@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Bootcamp Test Table" max_length="40" name="x_58872_needit_bootcamp_test_table" sizeclass="4" type="collection">
+        <element display="true" label="BootId" max_length="10" name="bootid" type="integer"/>
+        <element label="Name" max_length="200" name="name" type="string"/>
+    </element>
+</database>
